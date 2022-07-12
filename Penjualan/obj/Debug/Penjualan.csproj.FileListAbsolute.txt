@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.exe
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.pdb
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.exe
+c:\users\user\documents\visual studio 2015\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.pdb
